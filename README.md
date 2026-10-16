@@ -1,6 +1,6 @@
 # Notepad++ for macOS
 
-### [⬇ Download Notepad++.dmg](./build/NotepadPlusPlus.dmg)
+### [Download Notepad++ for Mac (.dmg)](https://raw.githubusercontent.com/ashutosh1412/Notepad-for-Mac/main/build/NotepadPlusPlus.dmg)
 
 Open the DMG and drag **Notepad++** to Applications. It's a universal app (Apple silicon and Intel) for macOS 11 Big Sur and later. The DMG is about 3.6 MB.
 
